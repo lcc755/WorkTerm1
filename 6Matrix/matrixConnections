@@ -1,2 +1,4 @@
 For a detailed description on connecting a LED matrix to the Arduino with jumper wires, check out:
 https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires
+
+The Grove kit is not practical for these examples. There are too many individual wires involved with the matrix. It would be pointless.  
